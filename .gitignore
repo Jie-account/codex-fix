@@ -1,0 +1,17 @@
+# 本机校验记录、执行日志与临时测试产物
+/state/
+/work/
+/dist/
+/.playwright-mcp/
+*.log
+*.zip
+/.env
+/.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# 编辑器本机设置
+/.vscode/
+/.idea/
